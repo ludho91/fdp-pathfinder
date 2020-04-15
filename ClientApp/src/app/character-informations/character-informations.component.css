@@ -1,0 +1,9 @@
+#informations {
+    display: grid;
+    grid-template-columns: 75% 25%;
+    grid-gap: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: black 5px solid;
+    padding:20px;
+}
